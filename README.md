@@ -12,7 +12,7 @@ Mounting(has been tested on the Shy60 Rev.1):
 
 ![Unbenannt](https://user-images.githubusercontent.com/107112751/184475320-a7ee4e03-f55a-40fe-8c3c-51b742c63440.png)
 
-This Mounting result into a typing experience, which is more on the stiffer side, with a soft bottom out and a litte amount of bounce.
+This Mounting result into a typing experience, which is more on the stiffer side, with a soft bottom out and a little amount of bounce.
 The Sound of this Mounting will be more on the deeper side.
 
 Plate Layout support:
