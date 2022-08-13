@@ -1,5 +1,5 @@
 # Shy60-Rev.2
-This is a modified bakeneko60, to be a two piece case, with a external weight. It has also removed the gummy Oring mount, the bakeneko60 was known for and added a gasket mount, with gummy Orings laying underneath the plate. There will be no gaskets over the plate.
+This is a modified bakeneko60, to be a two piece case, with an external weight. It has also removed the gummy Oring mount, the bakeneko60 was known for and added a gasket mount, with gummy Orings laying underneath the plate. There will be no gaskets over the plate.
 
 Case desig:
 
