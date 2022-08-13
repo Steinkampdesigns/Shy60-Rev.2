@@ -18,17 +18,23 @@ The Sound of this Mounting will be more on the deeper side.
 Plate Layout support:
 ![image](https://user-images.githubusercontent.com/107112751/184475975-a29d42c9-96a8-41eb-92f5-d5147e42af16.png)
 
-This Layout only has support for the Tsangan botton row, since I prefer it more over than the 6,25 space bar.
+The plate only has support for the Tsangan botton row, since I prefer it more over than the standard 6,25 spacebar bottom row.
 
 What is requiered to make this Keyboard (Attention!: I have not tested this keyboard yet, so if you want to make this keyboard yourself, you have to make it on you own risk):
  -5x   M2,5x8mm  round or socket screws
- -3x   M3x3-4mm countersunk screws
+ -2x   M3x3-4mm countersunk screws
  -1x   2m long x 4mm thick Oring
  -1x   Waffling60 PCB(bakeneko version)[or any other PCB, which is compatible with the open source V3 bakeneko]
  -1x   Ai03 unified daughterboard, with a 15cm long JST connector
  
- I hope you will like this keyboard, but keep in mind, that I have not tested it yet, I just wantad to share this project, to demonstrate the mounting.
+ I hope you will like this keyboard, but keep in mind, that I have not tested it yet, I just wantad to share this project, to demonstrate the mounting and the keyboard  design.
  
  My discord acound, if you have any questions or feedback: Shy#3831
  
+ Thanks to:
+ 
+  -Kkatano, for making the open source Bakeneko60
+  -4pplet, for making the Waffling60 PCB
+  -Ai03, for the plate generator
+  
  (I apologize for my bad english)
