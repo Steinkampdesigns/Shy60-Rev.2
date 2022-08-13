@@ -29,7 +29,9 @@ What is requiered to make this Keyboard (Attention!: I have not tested this keyb
  
  I hope you will like this keyboard, but keep in mind, that I have not tested it yet, I just wantad to share this project, to demonstrate the mounting and the keyboard  design.
  
- My discord acound, if you have any questions or feedback: Shy#3831
+ My discord, if you have any questions or feedback: Shy#3831
+ 
+ IC:https://forms.gle/zvYnWy94XNH1Bscb8
  
  Thanks to:
  
